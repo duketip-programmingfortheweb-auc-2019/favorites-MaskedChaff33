@@ -1,0 +1,14 @@
+    <div class="header">
+        <h1>Real Madrid C.F.</h1>
+        <h2>Hala Madrid!</h2>
+        <div class="navigation">
+            <hr>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="index4.html">Roster<a></a></li>
+                <li><a href="index3.html">History</a></li>
+                <li><a href="index2.html">Trophies</a></li>
+            </ul>
+            <hr>
+        </div>
+    </div>
